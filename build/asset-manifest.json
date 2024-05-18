@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.973791db.css",
+    "main.js": "/static/js/main.878a13b6.js",
+    "static/js/377.857f5c0b.chunk.js": "/static/js/377.857f5c0b.chunk.js",
+    "static/media/crop.jpg": "/static/media/crop.a0c925f26a1b6d3eb0ad.jpg",
+    "static/media/smart-agriculture-iot-with-hand-planting-tree-background.jpg": "/static/media/smart-agriculture-iot-with-hand-planting-tree-background.674f35150f160e8de7f8.jpg",
+    "service-worker.js": "/service-worker.js",
+    "static/media/svg-1.svg": "/static/media/svg-1.c7b903fc8666775101c44f9ad2a1565e.svg",
+    "static/media/sprout.png": "/static/media/sprout.a0dd2d5254e5d7a063fd.png",
+    "static/media/background4.png": "/static/media/background4.b616fa4c42f1811900cc.png",
+    "static/media/google.png": "/static/media/google.e12914ad8afda3f6f2e8.png",
+    "static/media/twitter.png": "/static/media/twitter.28b4dce41e4e33858919.png",
+    "static/media/svg-3.svg": "/static/media/svg-3.00a76f01b4e02087ae19dba76a3a9744.svg",
+    "static/media/facebook.png": "/static/media/facebook.4f037d961598aff2a0a4.png",
+    "static/media/svg-2.svg": "/static/media/svg-2.033a28feffa0709002f85d20e2496174.svg",
+    "index.html": "/index.html",
+    "main.973791db.css.map": "/static/css/main.973791db.css.map",
+    "main.878a13b6.js.map": "/static/js/main.878a13b6.js.map",
+    "377.857f5c0b.chunk.js.map": "/static/js/377.857f5c0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.973791db.css",
+    "static/js/main.878a13b6.js"
+  ]
+}
